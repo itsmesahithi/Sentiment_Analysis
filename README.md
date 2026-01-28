@@ -25,3 +25,6 @@ IMDB Movie Reviews Dataset (Keras)
 - TF-IDF with Logistic Regression gives strong baseline performance
 - Text preprocessing improves model accuracy
 - Negative and positive sentiments are well distinguished
+
+Note:
+Dataset not uploaded due to GitHub file size limit.
